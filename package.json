@@ -9,6 +9,6 @@
     "url": "https://hugorodrigues@github.com/hugorodrigues/setup.git"
   },
   "keywords": ["sysadmin", "devops", "network", "setup", "hostname", "wireless", "dns", "hostname"],
-  "main": "./setup.js",
+  "main": "./index.js",
   "dependencies": {}  
 }
