@@ -1,5 +1,7 @@
 setup
 =====
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/setup.svg)](https://greenkeeper.io/)
 A server config utility for nodejs
 Change: hostname, network interfaces, hosts and date/time
 
